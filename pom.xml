@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>baseproject</groupId>
+    <artifactId>baseproject</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>commen</module>
+        <module>core</module>
+    </modules>
+
+
+
+
+
+
+    <properties>
+        <spring.version>3.2.6.RELEASE</spring.version>
+        <spring.ws.version>2.1.4.RELEASE</spring.ws.version>
+        <spring.security.version>3.1.4.RELEASE</spring.security.version>
+        <spring.webflow.version>2.4.0.RELEASE</spring.webflow.version>
+        <primefaces.version>6.2</primefaces.version>
+        <commons-dbcp.version>1.2.1</commons-dbcp.version>
+        <commons-logging.version>1.1.1</commons-logging.version>
+        <geronimo-spec-jta.version>1.0.1B-rc4</geronimo-spec-jta.version>
+        <hsqldb.version>1.8.0.1</hsqldb.version>
+        <log4j.version>1.2.13</log4j.version>
+        <derby.version>10.3.2.1</derby.version>
+        <jmock-junit4.version>2.5.1</jmock-junit4.version>
+        <jmock-legacy.version>2.5.1</jmock-legacy.version>
+        <slf4j-api.version>1.5.8</slf4j-api.version>
+        <slf4j-log4j12.version>1.5.8</slf4j-log4j12.version>
+        <commons-collections.version>3.2</commons-collections.version>
+        <junit.version>4.8.2</junit.version>
+        <jopt-simple.version>3.0</jopt-simple.version>
+        <aspectjweaver.version>1.6.12</aspectjweaver.version>
+        <wstx-asl.version>3.2.7</wstx-asl.version>
+        <easymock.version>3.1</easymock.version>
+        <xmlunit.version>1.2</xmlunit.version>
+        <webSphereMQVersion>7.0.0.1</webSphereMQVersion>
+        <myfaces.version>2.1.9</myfaces.version>
+        <primefaces.extensions.version>3.2.0</primefaces.extensions.version>
+        <deployment.dir>target</deployment.dir>
+        <jcaptcha.all.version>1.0</jcaptcha.all.version>
+        <xerces.version>2.10.0</xerces.version>
+        <activiti-version>5.11</activiti-version>
+        <commons-fileupload-version>1.2.1</commons-fileupload-version>
+        <commons-io-version>2.1</commons-io-version>
+        <commons-net-version>3.0.1</commons-net-version>
+        <poi.version>3.9</poi.version>
+        <ehcache-web.version>2.0.4</ehcache-web.version>
+        <slf4j-jdk14.version>1.5.8</slf4j-jdk14.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+
+</project>
