@@ -30,14 +30,14 @@
         <log4j.version>1.2.13</log4j.version>
         <slf4j-api.version>1.5.8</slf4j-api.version>
         <slf4j-log4j12.version>1.5.8</slf4j-log4j12.version>
-        <commons-collections.version>3.2</commons-collections.version>
-        <junit.version>4.8.2</junit.version>
+        <commons-collections.version>3.2.1</commons-collections.version>
+        <junit.version>4.11</junit.version>
         <myfaces.version>2.1.9</myfaces.version>
         <primefaces.extensions.version>3.2.0</primefaces.extensions.version>
         <xerces.version>2.10.0</xerces.version>
         <activiti-version>5.11</activiti-version>
         <commons-fileupload-version>1.2.1</commons-fileupload-version>
-        <commons-io-version>2.1</commons-io-version>
+        <commons-io-version>2.5</commons-io-version>
         <commons-net-version>3.0.1</commons-net-version>
         <poi.version>3.9</poi.version>
     </properties>

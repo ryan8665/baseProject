@@ -9,7 +9,7 @@
     </view-state>
 
     <view-state id="page">
-
+        <transition on="index" to="index"/>
     </view-state>
 
     <view-state id="pageTwo">
